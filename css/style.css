@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+
+}
+header ul li{
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    line-height: 70px;
+    color: white;
+    font-size:25px ;
+    padding: 6px 16px ;
+    margin: 8px;
+    border-radius: 20px;
+}
+
+ul li a:hover{
+    background-color: white;
+    color: black;
+}
