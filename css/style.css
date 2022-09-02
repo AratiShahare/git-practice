@@ -26,3 +26,7 @@ ul li a:hover{
     background-color: rgb(235, 41, 232);
     color: black;
 }
+h1{
+    background-color: aqua;
+    color: red;
+}
